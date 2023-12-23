@@ -1,0 +1,39 @@
+{
+    "lastModifiedBy": {
+        "build": 20201110,
+        "major": 2021,
+        "patch": 1
+    },
+    "reports": [
+        {
+            "items": [
+                {
+                    "description": "",
+                    "module": "ModelerViewer",
+                    "name": "Components\\component1",
+                    "options": "{\"addOverlay\":true}",
+                    "screenshotFilepath": "341c88dcb9fc498dab33f27691698327\\449267a4d6fc44558fc7e73954b4cfce.png",
+                    "sortkey": 0,
+                    "treePath": "[\"Components\\\\component1\"]",
+                    "uid": "449267a4d6fc44558fc7e73954b4cfce",
+                    "vis3DFilepath": ""
+                },
+                {
+                    "description": "",
+                    "module": "ModelerViewer",
+                    "name": "Components\\component1",
+                    "options": "{\"addOverlay\":true}",
+                    "screenshotFilepath": "341c88dcb9fc498dab33f27691698327\\4410c55e7fa34ce49b256b554ee2c032.png",
+                    "sortkey": 1,
+                    "treePath": "[\"Components\\\\component1\"]",
+                    "uid": "4410c55e7fa34ce49b256b554ee2c032",
+                    "vis3DFilepath": ""
+                }
+            ],
+            "name": "Report 1",
+            "pathName": "341c88dcb9fc498dab33f27691698327",
+            "uid": "341c88dcb9fc498dab33f27691698327"
+        }
+    ],
+    "version": 20200327
+}
